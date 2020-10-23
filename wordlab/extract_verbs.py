@@ -1,5 +1,9 @@
 """
+<<<<<<< HEAD
 Load verbs in a file and search for corresponding
+=======
+Loads verbs in a file and search for corresponding
+>>>>>>> b3a391dc5abad75947187505784169bdaa7f1765
 probabilities in lexvars
 Created by Yizhi Tang
 """
