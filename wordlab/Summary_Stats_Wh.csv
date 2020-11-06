@@ -1,0 +1,175 @@
+,Item,Sentence,Verb,Arg,Subject_Token,Verb_Token,AnimateSubject,Length,key
+1,151,When/did/the/wine/age/in/the/bottle?,Causative,Intrans,wine,age,0,3,When did the wine age in the bottle?
+2,151,What/did/the/pharmacist/age/in/the/bottle?,Causative,Trans,pharmacist,age,1,3,What did the pharmacist age in the bottle?
+3,188,When/did/the/treat/balance/on/the/dog's/nose?,Causative,Intrans,treat,balance,0,7,When did the treat balance on the dog's nose?
+4,188,What/did/the/trainer/balance/on/the/dog's/nose?,Causative,Trans,trainer,balance,1,7,What did the trainer balance on the dog's nose?
+5,129,When/did/the/light/change/at/the/intersection?,Causative,Intrans,light,change,0,6,When did the light change at the intersection?
+6,129,What/did/the/town council/change/at/the/intersection?,Causative,Trans,town council,change,1,6,What did the town council change at the intersection?
+7,121,When/did/the/bowl/chip/before/the/dinner/party?,Causative,Intrans,bowl,chip,0,4,When did the bowl chip before the dinner party?
+8,121,What/did/the/butler/chip/before/the/dinner/party?,Causative,Trans,butler,chip,1,4,What did the butler chip before the dinner party?
+9,204,When/did/the/hiker/chop/for/the/camp/fire?,Activity,Intrans,hiker,chop,1,4,When did the hiker chop for the camp fire?
+10,204,What/did/the/hiker/chop/for/the/camp/fire?,Activity,Trans,hiker,chop,1,4,What did the hiker chop for the camp fire?
+11,279,When/did/the/waitress/clean/off/the/table?,Activity,Intrans,waitress,clean,1,5,When did the waitress clean off the table?
+12,279,What/did/the/waitress/clean/off/the/table?,Activity,Trans,waitress,clean,1,5,What did the waitress clean off the table?
+13,158,When/did/the/precipitation/clear/from/the/rainforest?,Causative,Intrans,precipitation,clear,0,5,When did the precipitation clear from the rainforest?
+14,158,What/did/the/loggers/clear/from/the/rainforest?,Causative,Trans,loggers,clear,1,5,What did the loggers clear from the rainforest?
+15,163,When/did/crowd/clear/out/of/the/auditorium?,Causative,Intrans,crowd,clear,1,5,When did crowd clear out of the auditorium?
+16,163,What/did/the/escorts/clear/out/of/the/auditorium?,Causative,Trans,escorts,clear,1,5,What did the escorts clear out of the auditorium?
+17,177,When/did/the/artery/clog/in/the/heart?,Causative,Intrans,artery,clog,0,4,When did the artery clog in the heart?
+18,177,What/did/the/plaque/clog/in/the/heart?,Causative,Trans,plaque,clog,0,4,What did the plaque clog in the heart?
+19,152,When/did/the/registers/close/in/the/store?,Causative,Intrans,registers,close,0,5,When did the registers close in the store?
+20,152,What/did/the/cashier/close/in/the/store?,Causative,Trans,cashier,close,1,5,What did the cashier close in the store?
+21,160,When/did/the/investigator/collect/from/the/crime/scene?,Causative,Intrans,investigator,collect,1,7,When did the investigator collect from the crime scene?
+22,160,What/did/the/detective/collect/from/the/crime/scene?,Causative,Trans,detective,collect,1,7,What did the detective collect from the crime scene?
+23,161,When/did/the/defendant/collect/from/the/insurance/agency?,Causative,Intrans,defendant,collect,1,7,When did the defendant collect from the insurance agency?
+24,161,What/did/the/victim/collect/from/the/insurance/agency?,Causative,Trans,victim,collect,1,7,What did the victim collect from the insurance agency?
+25,133,When/did/the/soup/cool/in/the/refrigerator?,Causative,Intrans,soup,cool,0,4,When did the soup cool in the refrigerator?
+26,133,What/did/the/bartender/cool/in/the/refrigerator?,Causative,Trans,bartender,cool,1,4,What did the bartender cool in the refrigerator?
+27,106,When/did/the/pipe/corrode/in/the/bathroom/wall?,Causative,Intrans,pipe,corrode,0,7,When did the pipe corrode in the bathroom wall?
+28,106,What/did/the/leak/corrode/in/the/bathroom/wall?,Causative,Trans,leak,corrode,0,7,What did the leak corrode in the bathroom wall?
+29,122,When/did/the/vase/crack/in/the/living/room?,Causative,Intrans,vase,crack,0,5,When did the vase crack in the living room?
+30,122,What/did/the/cleaning service/crack/in/the/living/room?,Causative,Trans,cleaning service,crack,1,5,What did the cleaning service crack in the living room?
+31,155,When/did/the/dirtbike rider/crash/into/the/tree?,Causative,Intrans,dirtbike rider,crash,1,5,When did the dirtbike rider crash into the tree?
+32,155,What/did/the/driver/crash/into/the/tree?,Causative,Trans,driver,crash,1,5,What did the driver crash into the tree?
+33,164,When/did/the/piecrust/crumble/in/the/bakery?,Causative,Intrans,piecrust,crumble,0,7,When did the piecrust crumble in the bakery?
+34,164,What/did/the/mixer/crumble/in/the/bakery?,Causative,Trans,mixer,crumble,0,7,What did the mixer crumble in the bakery?
+35,107,When/did/the/tire/deflate/at/the/automotive/repair/shop?,Causative,Intrans,tire,deflate,0,7,When did the tire deflate at the automotive repair shop?
+36,107,What/did/the/mechanic/deflate/at/the/automotive/repair/shop?,Causative,Trans,mechanic,deflate,1,7,What did the mechanic deflate at the automotive repair shop?
+37,109,When/did/the/powder/dissolve/in/the/beaker?,Causative,Intrans,powder,dissolve,0,8,When did the powder dissolve in the beaker?
+38,109,What/did/the/chemist/dissolve/in/the/beaker?,Causative,Trans,chemist,dissolve,1,8,What did the chemist dissolve in the beaker?
+39,253,When/did/the/illustrator/draw/for/a/children's/book?,Activity,Intrans,illustrator,draw,1,4,When did the illustrator draw for a children's book?
+40,253,What/did/the/illustrator/draw/for/a/children's/book?,Activity,Trans,illustrator,draw,1,4,What did the illustrator draw for a children's book?
+41,264,When/did/the/birds/drink/from/the/waterfall?,Activity,Intrans,birds,drink,1,5,When did the birds drink from the waterfall?
+42,264,What/did/the/birds/drink/from/the/waterfall?,Activity,Trans,birds,drink,1,5,What did the birds drink from the waterfall?
+43,135,When/did/the/towel/dry/on/the/front/porch?,Causative,Intrans,towel,dry,0,3,When did the towel dry on the front porch?
+44,135,What/did/the/father/dry/on/the/front/porch?,Causative,Trans,father,dry,1,3,What did the father dry on the front porch?
+45,149,When/did/the/hair/dry/at/the/salon?,Causative,Intrans,hair,dry,0,3,When did the hair dry at the salon?
+46,149,What/did/the/machine/dry/at/the/salon?,Causative,Trans,machine,dry,0,3,What did the machine dry at the salon?
+47,210,When/did/the/maid/dust/before/the/guests/arrived?,Activity,Intrans,maid,dust,1,4,When did the maid dust before the guests arrived?
+48,210,What/did/the/maid/dust/before/the/guests/arrived?,Activity,Trans,maid,dust,1,4,What did the maid dust before the guests arrived?
+49,266,When/did/the/secretary/dust/off/the/filing/cabinets?,Activity,Intrans,secretary,dust,1,4,When did the secretary dust off the filing cabinets?
+50,266,What/did/the/secretary/dust/off/the/filing/cabinets?,Activity,Trans,secretary,dust,1,4,What did the secretary dust off the filing cabinets?
+51,263,When/did/the/teenager/eat/in/the/lunchroom?,Activity,Intrans,teenager,eat,1,3,When did the teenager eat in the lunchroom?
+52,263,What/did/the/teenager/eat/in/the/lunchroom?,Activity,Trans,teenager,eat,1,3,What did the teenager eat in the lunchroom?
+53,110,When/did/the/photograph/fade/on/the/dining/room/wall?,Causative,Intrans,photograph,fade,0,4,When did the photograph fade on the dining room wall?
+54,110,What/did/the/sunlight/fade/on/the/dining/room/wall?,Causative,Trans,sunlight,fade,0,4,What did the sunlight fade on the dining room wall?
+55,172,When/did/the/jeans/fade/in/the/washer?,Causative,Intrans,jeans,fade,0,4,When did the jeans fade in the washer?
+56,172,What/did/the/detergent/fade/in/the/washer?,Causative,Trans,detergent,fade,0,4,What did the detergent fade in the washer?
+57,173,When/did/the/tub/flood/in/the/utility/room?,Causative,Intrans,tub,flood,0,5,When did the tub flood in the utility room?
+58,173,What/did/the/washing machine/flood/in/the/utility/room?,Causative,Trans,washing machine,flood,0,5,What did the washing machine flood in the utility room?
+59,239,When/did/the/hygienist/floss/at/the/dentist's?,Activity,Intrans,hygienist,floss,1,5,When did the hygienist floss at the dentist's?
+60,239,What/did/the/hygienist/floss/at/the/dentist's?,Activity,Trans,hygienist,floss,1,5,What did the hygienist floss at the dentist's?
+61,283,When/did/the/doctor/floss/at/the/orthodontist's/office?,Activity,Intrans,doctor,floss,1,5,When did the doctor floss at the orthodontist's office?
+62,283,What/did/the/doctor/floss/at/the/orthodontist's/office?,Activity,Trans,doctor,floss,1,5,What did the doctor floss at the orthodontist's office?
+63,165,When/did/the/ankle/fracture/at/the/basketball/game?,Causative,Intrans,ankle,fracture,0,8,When did the ankle fracture at the basketball game?
+64,165,What/did/the/athlete/fracture/at/the/basketball/game?,Causative,Trans,athlete,fracture,1,8,What did the athlete fracture at the basketball game?
+65,112,When/did/the/hem/fray/on/the/wedding/dress?,Causative,Intrans,hem,fray,0,4,When did the hem fray on the wedding dress?
+66,112,What/did/the/bride/fray/on/the/wedding/dress?,Causative,Trans,bride,fray,1,4,What did the bride fray on the wedding dress?
+67,113,When/did/the/liquid/freeze/in/the/chemistry/lab?,Causative,Intrans,liquid,freeze,0,6,When did the liquid freeze in the chemistry lab?
+68,113,What/did/the/researcher/freeze/in/the/chemistry/lab?,Causative,Trans,researcher,freeze,1,6,What did the researcher freeze in the chemistry lab?
+69,114,When/did/the/tomatoes/grow/next/to/the/daffodils?,Causative,Intrans,tomatoes,grow,0,4,When did the tomatoes grow next to the daffodils?
+70,114,What/did/the/gardener/grow/next/to/the/daffodils?,Causative,Trans,gardener,grow,1,4,What did the gardener grow next to the daffodils?
+71,140,When/did/the/vegetables/grow/in/the/greenhouse?,Causative,Intrans,vegetables,grow,0,4,When did the vegetables grow in the greenhouse?
+72,140,What/did/the/botanist/grow/in/the/greenhouse?,Causative,Trans,botanist,grow,1,4,What did the botanist grow in the greenhouse?
+73,115,When/did/the/machine/halt/in/the/car/factory?,Causative,Intrans,machine,halt,0,4,When did the machine halt in the car factory?
+74,115,What/did/the/manager/halt/in/the/car/factory?,Causative,Trans,manager,halt,1,4,What did the manager halt in the car factory?
+75,189,When/did/the/injury/heal/in/the/hospital?,Causative,Intrans,injury,heal,0,4,When did the injury heal in the hospital?
+76,189,What/did/the/cast/heal/in/the/hospital?,Causative,Trans,cast,heal,0,4,What did the cast heal in the hospital?
+77,183,When/did/the/food/heat/in/the/oven?,Causative,Intrans,food,heat,0,4,When did the food heat in the oven?
+78,183,What/did/the/cook/heat/in/the/oven?,Causative,Trans,cook,heat,1,4,What did the cook heat in the oven?
+79,212,When/did/the/teacher/hum/for/the/music/students?,Activity,Intrans,teacher,hum,1,3,When did the teacher hum for the music students?
+80,212,What/did/the/teacher/hum/for/the/music/students?,Activity,Trans,teacher,hum,1,3,What did the teacher hum for the music students?
+81,268,When/did/the/babysitter/hum/for/the/infant?,Activity,Intrans,babysitter,hum,1,3,When did the babysitter hum for the infant?
+82,268,What/did/the/babysitter/hum/for/the/infant?,Activity,Trans,babysitter,hum,1,3,What did the babysitter hum for the infant?
+83,153,When/did/the/fire/ignite/in/the/garage?,Causative,Intrans,fire,ignite,0,6,When did the fire ignite in the garage?
+84,153,What/did/the/thief/ignite/in/the/garage?,Causative,Trans,thief,ignite,1,6,What did the thief ignite in the garage?
+85,117,When/did/the/scores/improve/for/the/second/grade/class?,Causative,Intrans,scores,improve,0,7,When did the scores improve for the second grade class?
+86,117,What/did/the/principal/improve/for/the/second/grade/class?,Causative,Trans,principal,improve,1,7,What did the principal improve for the second grade class?
+87,118,When/did/the/float/inflate/for/the/parade?,Causative,Intrans,float,inflate,0,7,When did the float inflate for the parade?
+88,118,What/did/the/mayor/inflate/for/the/parade?,Causative,Trans,mayor,inflate,1,7,What did the mayor inflate for the parade?
+89,145,When/did/the/moonwalk/inflate/at/the/carnival?,Causative,Intrans,moonwalk,inflate,0,7,When did the moonwalk inflate at the carnival?
+90,145,What/did/the/air compressor/inflate/at/the/carnival?,Causative,Trans,air compressor,inflate,0,7,What did the air compressor inflate at the carnival?
+91,284,When/did/the/masseuse/knead/at/the/spa?,Activity,Intrans,masseuse,knead,1,5,When did the masseuse knead at the spa?
+92,284,What/did/the/masseuse/knead/at/the/spa?,Activity,Trans,masseuse,knead,1,5,What did the masseuse knead at the spa?
+93,260,When/did/the/associate/knit/between/working/double/shifts?,Activity,Intrans,associate,knit,1,4,When did the associate knit between working double shifts?
+94,260,What/did/the/associate/knit/between/working/double/shifts?,Activity,Trans,associate,knit,1,4,What did the associate knit between working double shifts?
+95,217,When/did/the/gardener/mow/during/the/three-day/weekend?,Activity,Intrans,gardener,mow,1,3,When did the gardener mow during the three-day weekend?
+96,217,What/did/the/gardener/mow/during/the/three-day/weekend?,Activity,Trans,gardener,mow,1,3,What did the gardener mow during the three-day weekend?
+97,250,When/did/the/landscaper/mow/in/the/backyard?,Activity,Intrans,landscaper,mow,1,3,When did the landscaper mow in the backyard?
+98,250,What/did/the/landscaper/mow/in/the/backyard?,Activity,Trans,landscaper,mow,1,3,What did the landscaper mow in the backyard?
+99,187,When/did/the/parachute/open/in/the/air?,Causative,Intrans,parachute,open,0,4,When did the parachute open in the air?
+100,187,What/did/the/skydiver/open/in/the/air?,Causative,Trans,skydiver,open,1,4,What did the skydiver open in the air?
+101,218,When/did/the/couple/pack/for/the/vacation/to/Thailand?,Activity,Intrans,couple,pack,1,4,When did the couple pack for the vacation to Thailand?
+102,218,What/did/the/couple/pack/for/the/vacation/to/Thailand?,Activity,Trans,couple,pack,1,4,What did the couple pack for the vacation to Thailand?
+103,254,When/did/the/handyman/paint/in/the/auto/body/shop?,Activity,Intrans,handyman,paint,1,5,When did the handyman paint in the auto body shop?
+104,254,What/did/the/handyman/paint/in/the/auto/body/shop?,Activity,Trans,handyman,paint,1,5,What did the handyman paint in the auto body shop?
+105,220,When/did/the/child/play/with/the/neighbor's/kids?,Activity,Intrans,child,play,1,4,When did the child play with the neighbor's kids?
+106,220,What/did/the/child/play/with/the/neighbor's/kids?,Activity,Trans,child,play,1,4,What did the child play with the neighbor's kids?
+107,257,When/did/the/pianist/play/in/the/music/competition?,Activity,Intrans,pianist,play,1,4,When did the pianist play in the music competition?
+108,257,What/did/the/pianist/play/in/the/music/competition?,Activity,Trans,pianist,play,1,4,What did the pianist play in the music competition?
+109,221,When/did/the/farmer/plow/around/the/silo?,Activity,Intrans,farmer,plow,1,4,When did the farmer plow around the silo?
+110,221,What/did/the/farmer/plow/around/the/silo?,Activity,Trans,farmer,plow,1,4,What did the farmer plow around the silo?
+111,243,When/did/the/landlord/plow/after/the/blizzard?,Activity,Intrans,landlord,plow,1,4,When did the landlord plow after the blizzard?
+112,243,What/did/the/landlord/plow/after/the/blizzard?,Activity,Trans,landlord,plow,1,4,What did the landlord plow after the blizzard?
+113,267,When/did/the/shoe shiner/polish/at/the/airport?,Activity,Intrans,shoe shiner,polish,1,6,When did the shoe shiner polish at the airport?
+114,267,What/did/the/shoe shiner/polish/at/the/airport?,Activity,Trans,shoe shiner,polish,1,6,What did the shoe shiner polish at the airport?
+115,101,When/did/the/balloons/pop/at/the/party?,Causative,Intrans,balloons,pop,0,3,When did the balloons pop at the party?
+116,101,What/did/the/clown/pop/at/the/party?,Causative,Trans,clown,pop,1,3,What did the clown pop at the party?
+117,222,When/did/the/professor/read/for/the/philosophy/seminar?,Activity,Intrans,professor,read,1,4,When did the professor read for the philosophy seminar?
+118,222,What/did/the/professor/read/for/the/philosophy/seminar?,Activity,Trans,professor,read,1,4,What did the professor read for the philosophy seminar?
+119,241,When/did/the/author/read/to/the/elementary/students?,Activity,Intrans,author,read,1,4,When did the author read to the elementary students?
+120,241,What/did/the/author/read/to/the/elementary/students?,Activity,Trans,author,read,1,4,What did the author read to the elementary students?
+121,223,When/did/the/poet/recite/in/front/of/the/English/class?,Activity,Intrans,poet,recite,1,6,When did the poet recite in front of the English class?
+122,223,What/did/the/poet/recite/in/front/of/the/English/class?,Activity,Trans,poet,recite,1,6,What did the poet recite in front of the English class?
+123,258,When/did/the/jeweler/sculpt/for/the/final/project?,Activity,Intrans,jeweler,sculpt,1,6,When did the jeweler sculpt for the final project?
+124,258,What/did/the/jeweler/sculpt/for/the/final/project?,Activity,Trans,jeweler,sculpt,1,6,What did the jeweler sculpt for the final project?
+125,226,When/did/the/seamstress/sew/for/the/historical/costumes?,Activity,Intrans,seamstress,sew,1,3,When did the seamstress sew for the historical costumes?
+126,226,What/did/the/seamstress/sew/for/the/historical/costumes?,Activity,Trans,seamstress,sew,1,3,What did the seamstress sew for the historical costumes?
+127,123,When/did/the/glass/shatter/on/the/nicely/set/table?,Causative,Intrans,glass,shatter,0,7,When did the glass shatter on the nicely set table?
+128,123,What/did/the/baseball/shatter/on/the/nicely/set/table?,Causative,Trans,baseball,shatter,0,7,What did the baseball shatter on the nicely set table?
+129,261,When/did/the/father/shave/in/front/of/the/mirror?,Activity,Intrans,father,shave,1,5,When did the father shave in front of the mirror?
+130,261,What/did/the/father/shave/in/front/of/the/mirror?,Activity,Trans,father,shave,1,5,What did the father shave in front of the mirror?
+131,102,When/did/the/sweater/shrink/at/the/laundromat?,Causative,Intrans,sweater,shrink,0,6,When did the sweater shrink at the laundromat?
+132,102,What/did/the/maid/shrink/at/the/laundromat?,Causative,Trans,maid,shrink,1,6,What did the maid shrink at the laundromat?
+133,224,When/did/the/musician/sing/at/radio/city/music/hall?,Activity,Intrans,musician,sing,1,4,When did the musician sing at radio city music hall?
+134,224,What/did/the/musician/sing/at/radio/city/music/hall?,Activity,Trans,musician,sing,1,4,What did the musician sing at radio city music hall?
+135,245,When/did/the/choir/sing/at/the/spring/concert?,Activity,Intrans,choir,sing,1,4,When did the choir sing at the spring concert?
+136,245,What/did/the/choir/sing/at/the/spring/concert?,Activity,Trans,choir,sing,1,4,What did the choir sing at the spring concert?
+137,147,When/did/the/paddle/sink/in/the/lake?,Causative,Intrans,paddle,sink,0,4,When did the paddle sink in the lake?
+138,147,What/did/the/fisherman/sink/in/the/lake?,Causative,Trans,fisherman,sink,1,4,What did the fisherman sink in the lake?
+139,227,When/did/the/inventor/sketch/in/the/park?,Activity,Intrans,inventor,sketch,1,6,When did the inventor sketch in the park?
+140,227,What/did/the/inventor/sketch/in/the/park?,Activity,Trans,inventor,sketch,1,6,What did the inventor sketch in the park?
+141,247,When/did/the/cartoonist/sketch/for/the/comic/magazine?,Activity,Intrans,cartoonist,sketch,1,6,When did the cartoonist sketch for the comic magazine?
+142,247,What/did/the/cartoonist/sketch/for/the/comic/magazine?,Activity,Trans,cartoonist,sketch,1,6,What did the cartoonist sketch for the comic magazine?
+143,124,When/did/the/branch/snap/off/of/the/oak/tree?,Causative,Intrans,branch,snap,0,4,When did the branch snap off of the oak tree?
+144,124,What/did/the/lightning/snap/off/of/the/oak/tree?,Causative,Trans,lightning,snap,0,4,What did the lightning snap off of the oak tree?
+145,184,When/did/the/socks/soak/in/the/washtub?,Causative,Intrans,socks,soak,0,4,When did the socks soak in the washtub?
+146,184,What/did/the/nanny/soak/in/the/washtub?,Causative,Trans,nanny,soak,1,4,What did the nanny soak in the washtub?
+147,154,When/did/the/muscles/stretch/during/the/exercise/routine?,Causative,Intrans,muscles,stretch,0,7,When did the muscles stretch during the exercise routine?
+148,154,What/did/the/body-builder/stretch/during/the/exercise/routine?,Causative,Trans,body-builder,stretch,1,7,What did the body-builder stretch during the exercise routine?
+149,228,When/did/the/minister/study/at/Cambridge/University?,Activity,Intrans,minister,study,1,5,When did the minister study at Cambridge University?
+150,228,What/did/the/minister/study/at/Cambridge/University?,Activity,Trans,minister,study,1,5,What did the minister study at Cambridge University?
+151,229,When/did/the/janitor/sweep/for/the/landlady?,Activity,Intrans,janitor,sweep,1,5,When did the janitor sweep for the landlady?
+152,229,What/did/the/janitor/sweep/for/the/landlady?,Activity,Trans,janitor,sweep,1,5,What did the janitor sweep for the landlady?
+153,230,When/did/the/mathematician/teach/in/San/Francisco?,Activity,Intrans,mathematician,teach,1,5,When did the mathematician teach in San Francisco?
+154,230,What/did/the/mathematician/teach/in/San/Francisco?,Activity,Trans,mathematician,teach,1,5,What did the mathematician teach in San Francisco?
+155,126,When/did/the/costume/tear/during/the/performance?,Causative,Intrans,costume,tear,0,4,When did the costume tear during the performance?
+156,126,What/did/the/dancer/tear/during/the/performance?,Causative,Trans,dancer,tear,1,4,What did the dancer tear during the performance?
+157,146,When/did/the/popsicle/thaw/in/the/cafeteria?,Causative,Intrans,popsicle,thaw,0,4,When did the popsicle thaw in the cafeteria?
+158,146,What/did/the/lunch lady/thaw/in/the/cafeteria?,Causative,Trans,lunch lady,thaw,1,4,What did the lunch lady thaw in the cafeteria?
+159,231,When/did/the/editor/type/for/the/unconventional/writer?,Activity,Intrans,editor,type,1,4,When did the editor type for the unconventional writer?
+160,231,What/did/the/editor/type/for/the/unconventional/writer?,Activity,Trans,editor,type,1,4,What did the editor type for the unconventional writer?
+161,232,When/did/the/courier/vacuum/after/the/delivery?,Activity,Intrans,courier,vacuum,1,6,When did the courier vacuum after the delivery?
+162,232,What/did/the/courier/vacuum/after/the/delivery?,Activity,Trans,courier,vacuum,1,6,What did the courier vacuum after the delivery?
+163,282,When/did/the/housekeeper/vacuum/on/the/second-floor?,Activity,Intrans,housekeeper,vacuum,1,6,When did the housekeeper vacuum on the second-floor?
+164,282,What/did/the/housekeeper/vacuum/on/the/second-floor?,Activity,Trans,housekeeper,vacuum,1,6,What did the housekeeper vacuum on the second-floor?
+165,281,When/did/the/busboy/wash/off/the/dishes?,Activity,Intrans,busboy,wash,1,4,When did the busboy wash off the dishes?
+166,281,What/did/the/busboy/wash/off/the/dishes?,Activity,Trans,busboy,wash,1,4,What did the busboy wash off the dishes?
+167,235,When/did/the/class/weave/for/the/community/art/project?,Activity,Intrans,weave,weave,1,5,When did the class weave for the community art project?
+168,235,What/did/the/class/weave/for/the/community/art/project?,Activity,Trans,weave,weave,1,5,What did the class weave for the community art project?
+169,234,When/did/the/woodworker/whittle/on/the/front/porch?,Activity,Intrans,woodworker,whittle,1,7,When did the woodworker whittle on the front porch?
+170,234,What/did/the/woodworker/whittle/on/the/front/porch?,Activity,Trans,woodworker,whittle,1,7,What did the woodworker whittle on the front porch?
+171,236,When/did/the/journalist/write/for/the/New/Yorker?,Activity,Intrans,journalist,write,1,5,When did the journalist write for the New Yorker?
+172,236,What/did/the/journalist/write/for/the/New/Yorker?,Activity,Trans,journalist,write,1,5,What did the journalist write for the New Yorker?
+173,262,When/did/the/third-grader/write/on/the/chalkboard?,Activity,Intrans,third-grader,write,1,5,When did the third-grader write on the chalkboard?
+174,262,What/did/the/third-grader/write/on/the/chalkboard?,Activity,Trans,third-grader,write,1,5,What did the third-grader write on the chalkboard?

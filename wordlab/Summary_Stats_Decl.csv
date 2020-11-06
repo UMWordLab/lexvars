@@ -1,4 +1,4 @@
-﻿Cond,Item,Sentence,Verb,Arg,Subject Token,Verb Token,   
+﻿Cond,Item,Sentence,Verb,Arg,Subject_Token,Verb_Token,   
 caus.cos.intr,151,The wine was aging in the bottle on the top shelf.,Causative,Intrans,wine,age,"“wine age_INF"""
 caus.cos.tran,151,The biologist was aging the bacteria in the bottle.,Causative,Trans,biologist,age,"“biologist age_INF"""
 caus.cos.intr,188,The treat was balancing on the wheel at the competition.,Causative,Intrans,treat,balance,"“treat balance_INF"""

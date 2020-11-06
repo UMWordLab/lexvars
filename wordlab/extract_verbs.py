@@ -13,7 +13,7 @@ def load_data(fname):
     """
     Read in a csv file and return a dataframe.
     A dataframe df is similar to dictionary.
-    Access the label by calling dataframe['Verb Token']
+    Access the label by calling dataframe['Verb_Token']
     """
     return pd.read_csv(fname)
 
@@ -26,7 +26,7 @@ def main():
 
     # Load all verbs and remove duplicates
     verb_file = "Summary_Stats_Decl.csv"
-    all_verbs = load_data(verb_file)['Verb Token'].drop_duplicates()
+    all_verbs = load_data(verb_file)['Verb_Token'].drop_duplicates()
     # Load all probabilities
     probability_file = "lex-lrec3.csv"
     all_prob = load_data(probability_file)
